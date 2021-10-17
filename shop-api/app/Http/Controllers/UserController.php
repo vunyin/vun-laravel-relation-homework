@@ -42,7 +42,7 @@ class UserController extends Controller
      */
     public function show()
     {
-        //
+       
     }
 
     /**
@@ -54,7 +54,7 @@ class UserController extends Controller
      */
     public function update(Request $request)
     {
-        //
+       
     }
 
     /**
@@ -65,6 +65,6 @@ class UserController extends Controller
      */
     public function destroy( $userController)
     {
-        //
+        
     }
 }
